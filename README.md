@@ -27,3 +27,8 @@ Responsive, statische Website für GitHub Pages. Keine Build-Tools erforderlich.
 
 ## Google
 Nach dem Livegang die Website in Google Search Console als URL-Präfix hinzufügen und Eigentümerschaft bestätigen. Die Sitemap-URL einreichen. Indexierung ist nicht garantiert und kann dauern. Keine kostenpflichtige Werbung ist dafür erforderlich.
+
+## Aktualisierte Liquid-Glass-Version
+Diese Version enthält zusätzlich `flotte.html` als eigene Flottenseite und das Konzeptbild unter `assets/alsterair-fleet-concept.jpg`. Lade beim Aktualisieren alle Dateien und den Ordner `assets` ins GitHub-Repository hoch und bestätige das Überschreiben vorhandener Dateien. GitHub Pages veröffentlicht die Änderungen nach dem Commit automatisch, oft innerhalb weniger Minuten.
+
+Wichtig: Das Bild ist eine KI-generierte Konzeptdarstellung. Es bestätigt keine tatsächlich betriebene Flotte oder buchbaren Flüge. Vor Veröffentlichung außerdem Impressum, Datenschutzhinweise und Kontaktadresse prüfen.
