@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://alsterair.github.io/sitemap.xml
+
+Sitemap: https://alsterair.github.io/AlsterAir-Web/sitemap.xml
